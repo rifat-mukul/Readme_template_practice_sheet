@@ -139,7 +139,7 @@ http://bracu.ac.bd
 ## Image Sytax
 
 
-![git_Picture](.\images\git_picture_1.png)  
+![git_Picture](.\images\git_picture_1.PNG)  
 
 ## Image Sytax html sytan
 
